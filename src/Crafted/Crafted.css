@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.side-item-heading{
+    width: 20%;
+   height: 50px;
+   display: flex;
+   align-items: center;
+   color: #8b8383;
+   background-color: rgb(56, 52, 52);
+}
+.padding25{
+    padding-left: 25px;
+}

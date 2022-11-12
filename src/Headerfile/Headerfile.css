@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 40%;
+    height: 70px;
+    background-color: rgb(56, 52, 52);
+    display: flex;
+    justify-content: space-around;
+    color: whitesmoke;
+    align-items: center;
+
+}

@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.side-item{
+    width: 20%;
+   height: 50px;
+   display: flex;
+   align-items: center;
+   color: whitesmoke;
+   background-color: rgb(56, 52, 52);
+}
+.padding{
+    padding-left: 15px;
+}
+.padding30{
+    padding-left: 30px;
+}
