@@ -16,26 +16,15 @@ import { Chat } from './Chat/Chat';
 import { User } from './User/User';
 import { Changelog } from './Changelog/Changelog';
 import { Button } from './Button/Button';
-
+import { Main } from './Main/Main';
+import { Mainchild } from './Mainchild/Mainchild';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
-  <Pagelogo></Pagelogo>
-  <Headerfile></Headerfile>
-  <Headerright></Headerright>
-  <Dashboard></Dashboard>
-  <Layout></Layout>
-  <Crafted></Crafted>
-  <Pages></Pages>
-  <Accounts></Accounts>
-  <Errors></Errors>
-  <Widgets></Widgets>
-  <Apps></Apps>
-  <Chat></Chat>
-  <User></User>
-  <Changelog></Changelog>
-  <Footer></Footer>
-  <Button></Button>
+  <div className='back-col'>
+   
+
+  </div>
   
     
   </>

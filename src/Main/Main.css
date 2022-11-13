@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-item{
+    width: 80%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.main-child1{
+    width: 71px;
+    height:19px;
+    background-color: rgb(56, 52, 52);
+    padding: 10px;
+    border-radius: 3px;
+    color: antiquewhite;
+    text-align: center;
+};
+.font{
+    font-weight: 22px;
+}
+.main-side-child{
+    width: 70px;
+    height: 19px;
+    background-color:#17a3f5;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+    text-align: center;
+    margin-left: 20px;
+
+}
+.child-div{
+    display: flex;
+    justify-content: space-around;
+}
+.filter{
+    padding-right: 5px;
+}
