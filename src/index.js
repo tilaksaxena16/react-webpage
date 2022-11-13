@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import './index.css';
 import { Headerfile } from './Headerfile/Headerfile';
 import { Dashboard } from './Dashboard/Dashboard';
 import { Pagelogo } from './Pagelogo/Pagelogo';
@@ -22,7 +23,14 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
   <div className='back-col'>
-   
+    <div className='header-style'>
+      <Pagelogo></Pagelogo>
+      <Headerfile></Headerfile>
+      <Headerright></Headerright>
+    </div>
+    <div>
+      <Dashboard></Dashboard>
+    </div>
 
   </div>
   
