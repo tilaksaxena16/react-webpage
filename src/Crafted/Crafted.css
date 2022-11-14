@@ -2,15 +2,15 @@
     padding: 0;
     margin: 0;
 }
-
-.side-item-heading{
+.side-item-heading1{
     width: 20%;
-   height: 50px;
-   display: flex;
-   align-items: center;
-   color: #8b8383;
-   background-color: rgb(56, 52, 52);
-}
+    height: 35px;
+    display: flex;
+    align-items: end;
+    color: #8b8383;
+    background-color: rgb(56, 52, 52);
+    }
 .padding25{
     padding-left: 25px;
+    
 }

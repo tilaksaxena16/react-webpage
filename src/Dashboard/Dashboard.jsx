@@ -6,10 +6,10 @@ const Dashboard = () =>{
 
     return(
         <>
-        <div className="layout1">
-        <i class="fa-solid fa-layer-group padding30"></i>
-        <label className="padding">Dashboard</label>
-        </div>
+            <div className="layout11">
+                <i class="fa-solid fa-layer-group padding30"></i>
+                <label className="padding">Dashboard</label>
+            </div>
         
         </>
     )

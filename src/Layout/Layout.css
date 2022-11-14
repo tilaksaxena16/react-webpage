@@ -5,7 +5,7 @@
 
 .side-item{
     width: 20%;
-   height: 50px;
+   height: 35px;
    display: flex;
    align-items: center;
    color: whitesmoke;
@@ -13,6 +13,7 @@
 }
 .padding{
     padding-left: 15px;
+    font-size: 13px;
 }
 .padding30{
     padding-left: 30px;

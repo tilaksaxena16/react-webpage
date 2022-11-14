@@ -22,19 +22,30 @@ import { Mainchild } from './Mainchild/Mainchild';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
-  <div className='back-col'>
-    <div className='header-style'>
-      <Pagelogo></Pagelogo>
-      <Headerfile></Headerfile>
-      <Headerright></Headerright>
+    <div className='back-col'>
+      <div className='header-style'>
+        <Pagelogo></Pagelogo>
+        <Headerfile></Headerfile>
+        <Headerright></Headerright>
+      </div>
+      <div>
+       <Main></Main>
+      </div>
+      <div>
+        <Dashboard></Dashboard>
+        <Layout></Layout>
+        <Crafted></Crafted>
+        <Pages></Pages>
+        <Accounts></Accounts>
+        <Errors></Errors>
+        <Widgets></Widgets>
+        <Apps></Apps>
+        <Chat></Chat>
+        <User></User>
+        <Changelog></Changelog>
+        <Button></Button>
+      </div>    
     </div>
-    <div>
-      <Dashboard></Dashboard>
-    </div>
-
-  </div>
-  
-    
   </>
 );
 

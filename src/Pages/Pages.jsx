@@ -5,7 +5,7 @@ const Pages = () => {
 
     return (
         <>
-            <div className="page">
+            <div className="page111">
                 <div>
                     <i class="fa-solid fa-file-lines padding30"></i>
                     <label className="padding">Pages</label>

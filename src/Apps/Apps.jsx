@@ -5,7 +5,7 @@ const Apps = () =>{
 
     return(
         <>
-        <div className="side-item-heading">
+        <div className="side-item-heading1">
             <h6 className="padding25">A P P S</h6>
         </div>
         

@@ -6,12 +6,12 @@ const Pagelogo = () => {
 
     return (
         <>
-            <div className="page">
+            <div className="page2">
                 <div>
-                    <i class="fa-brands fa-monero logo left-space"></i>
+                    <i class="fa-brands fa-monero logo1 left-space"></i>
                 </div>
                 <div>
-                    <label className="font right-space">Metronic</label>
+                    <label className="font1 right-space">Metronic</label>
                 </div>
 
             </div>

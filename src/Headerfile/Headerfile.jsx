@@ -8,11 +8,11 @@ const Headerfile = () =>{
         <>
         <div className="header">
         <i class="fa-solid fa-angles-left"></i>
-        <label>Dashboard</label>
-        <label>Layout Builder</label>
-        <label>Crafted</label>
-        <label>Apps</label>
-        <label>Mega menu</label>
+        <label className="header-font-size">Dashboard</label>
+        <label className="header-font-size">Layout Builder</label>
+        <label className="header-font-size">Crafted</label>
+        <label className="header-font-size">Apps</label>
+        <label className="header-font-size">Mega menu</label>
 
 
         </div>

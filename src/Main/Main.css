@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.main-item{
+.main-item1{
     width: 80%;
     height: 50px;
     display: flex;
@@ -22,10 +22,8 @@
     color: antiquewhite;
     text-align: center;
 };
-.font{
-    font-weight: 22px;
-}
-.main-side-child{
+
+.main-side-child1{
     width: 70px;
     height: 19px;
     background-color:#17a3f5;
@@ -42,4 +40,7 @@
 }
 .filter{
     padding-right: 5px;
+}
+.col{
+    color: white;
 }

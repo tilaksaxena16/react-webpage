@@ -5,7 +5,7 @@ const Chat = () =>{
 
     return(
         <>
-        <div className="page">
+            <div className="page">
                 <div>
                     <i class="fa-solid fa-message padding30"></i>
                     <label className="padding">Chat</label>
@@ -14,8 +14,6 @@ const Chat = () =>{
                     <i class="fa-solid fa-angle-down padding-right25"></i>
                 </div>
             </div>
-        
-        
         </>
     )
 }
